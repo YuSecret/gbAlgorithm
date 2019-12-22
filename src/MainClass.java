@@ -4,6 +4,9 @@ import java.util.Scanner;
 public class MainClass {
     static Random rand = new Random();
     public static void main(String[] args) {
+        
+    }
+    public static void homeWork1(String[] args) {
         FirstArrayList <Integer> arr = new FirstArrayList<>(100000);
 
         //заполняем массив
